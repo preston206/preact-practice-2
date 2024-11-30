@@ -8,6 +8,8 @@ export function Home() {
 				<img src={preactLogo} alt="Preact logo" height="160" width="160" />
 			</a>
 			<h1>Get Started building Vite-powered Preact Apps testtest</h1>
+			<div><a href="/about">Go To About</a></div>
+			<div><a href="/app">Go To App</a></div>
 			<section>
 				<Resource
 					title="Learn Preact"

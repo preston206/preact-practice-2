@@ -1,7 +1,7 @@
-const About = () => {
-  return (
-    <h1>ABOUT PAGE</h1>
-  )
+export function About() {
+	return (
+		<section>
+			<h1>About Page</h1>
+		</section>
+	);
 }
-
-export default About;
