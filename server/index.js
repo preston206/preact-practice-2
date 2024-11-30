@@ -5,7 +5,7 @@ const path = require('path');
 // const { h } = require('preact');
 // const { renderToString } = require('preact-render-to-string');
 // const { Home } = require('../client/src/pages/Home/index.jsx');
-/** @jsx h */
+// /** @jsx h */
 
 // console.log('---HOME', Home);
 
