@@ -1,7 +1,7 @@
 export function About() {
 	return (
-		<section>
-			<h1>About Page</h1>
+		<section class="p-4 bg-gray-500">
+			<h1 class="text-white font-bold">About Page</h1>
 		</section>
 	);
 }
